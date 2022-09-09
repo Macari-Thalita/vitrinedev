@@ -1,16 +1,16 @@
-# Nome do meu projeto
+#vitrinedev
 
-Rápida descrição do objetivo de fazer esse projeto
+Testando a vitrine dev :)
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Teste vitrine dev**
+| :label: Tecnologias | javascript, html, css, java, react (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png#vitrinedev)
 
 ## Detalhes do projeto
 
